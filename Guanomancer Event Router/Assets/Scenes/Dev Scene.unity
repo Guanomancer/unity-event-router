@@ -153,6 +153,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _assemblyName: Guanomancer.EventRouting
+  _interfaceName: IEventData
 --- !u!4 &14902639
 Transform:
   m_ObjectHideFlags: 0
